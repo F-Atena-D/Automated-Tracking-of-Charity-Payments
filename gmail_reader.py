@@ -230,10 +230,6 @@ def get_payment_emails(
 
         # added queries
         "BoA":       "from:onlinebanking@ealerts.bankofamerica.com",
-        # "MsJafari":  "to:mahnazjafari1964@gmail.com",
-        # "MsJafari2": "to:mahnazjafari1964@yahoo.com",
-        # "MrJaberi":  "to:mjdjaberi@gmail.com",
-        # "Info":      "to:info@childrenrfuture.org",
     }
 
     # ---- Helpers ----
